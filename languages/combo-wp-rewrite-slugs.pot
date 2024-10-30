@@ -1,0 +1,92 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Combo WP Rewrite Slugs\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-05 07:07+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: admin/partials/functions.php:170
+msgid "All Rights Reserved"
+msgstr ""
+
+#: admin/partials/functions.php:351
+msgid "author"
+msgstr ""
+
+#. Author of the plugin
+#: admin/partials/functions.php:170
+msgid "CodeZel"
+msgstr ""
+
+#. Name of the plugin
+msgid "Combo WP Rewrite Slugs"
+msgstr ""
+
+#: admin/partials/functions.php:100
+msgid "Custom post types"
+msgstr ""
+
+#: admin/partials/functions.php:121
+msgid "Custom Taxonomies"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://codezel.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://codecanyon.net/user/codezel/portfolio"
+msgstr ""
+
+#: admin/partials/functions.php:107 admin/partials/functions.php:128
+#: admin/partials/functions.php:150
+msgid ""
+"Leave it empty to use default slug. Use only slugs. Do not write with space "
+"and special characters. You can use hyphen ( - ) and underscore ( _ )"
+msgstr ""
+
+#: admin/partials/functions.php:83
+msgid "logo"
+msgstr ""
+
+#: admin/partials/functions.php:44 admin/partials/functions.php:277
+msgid "Rewrite Slugs"
+msgstr ""
+
+#: admin/partials/functions.php:236
+msgid "Settings updated"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"The plugin will allow the admin to rewrite slugs of all registered custom "
+"post types, taxonomies and user roles"
+msgstr ""
+
+#: admin/partials/functions.php:87
+msgid ""
+"The plugin will allow the admin to rewrite slugs of all registered custom "
+"post types, taxonomies and user roles. Please don't use WordPress reserved "
+"words. You can check below link."
+msgstr ""
+
+#: admin/partials/functions.php:143
+msgid "User Roles"
+msgstr ""
+
+#: admin/partials/functions.php:85
+msgid "Welcome to rewrite custom post type slugs"
+msgstr ""
+
+#: admin/partials/functions.php:88
+msgid "WordPress reserved words"
+msgstr ""
